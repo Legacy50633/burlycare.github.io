@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/burlycare.github.io/static/css/main.47aab218.css",
+    "main.js": "/burlycare.github.io/static/js/main.e2ce0cbe.js",
+    "static/js/787.1fe0cff1.chunk.js": "/burlycare.github.io/static/js/787.1fe0cff1.chunk.js",
+    "index.html": "/burlycare.github.io/index.html",
+    "main.47aab218.css.map": "/burlycare.github.io/static/css/main.47aab218.css.map",
+    "main.e2ce0cbe.js.map": "/burlycare.github.io/static/js/main.e2ce0cbe.js.map",
+    "787.1fe0cff1.chunk.js.map": "/burlycare.github.io/static/js/787.1fe0cff1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47aab218.css",
+    "static/js/main.e2ce0cbe.js"
+  ]
+}
